@@ -31,6 +31,9 @@ How It Works:
 
 Input Your Skills & Interests: Users are prompted to provide a list of skills and interests relevant to their career goals.
 
+![image](https://github.com/user-attachments/assets/c8c9e7af-ca81-4a02-a292-6f6601246198)
+
+
 AI Model Analysis: The AI model processes the input data and predicts job roles that fit the user's profile.
 
 Career Path Recommendations: The app presents a list of recommended jobs and career paths, complete with descriptions and insights.
