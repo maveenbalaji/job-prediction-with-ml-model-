@@ -14,16 +14,26 @@ AI-Powered Insights: The app leverages powerful AI models to analyze data and ma
 User-Friendly Interface: With easy-to-navigate features, the app provides a seamless experience for users to explore job opportunities.
 
 Data Analysis: Benefit from data-driven predictions that guide you through potential career options.
+
 Skill and Interest Matching: Simply input your skills and interests, and the app will generate a list of job roles that align with your profile.
 
 Tech Stack:
 
 Flutter: Cross-platform app development framework for building a beautiful and responsive mobile app.
+
 AI/ML Model: Custom-built AI model that processes user inputs to predict job roles.
+
 Dart: Programming language used for Flutter development.
+
 Data Analysis: Integrated data analysis techniques to generate accurate job predictions.
-How It Works
+
+How It Works:
+
 Input Your Skills & Interests: Users are prompted to provide a list of skills and interests relevant to their career goals.
+
 AI Model Analysis: The AI model processes the input data and predicts job roles that fit the user's profile.
+
 Career Path Recommendations: The app presents a list of recommended jobs and career paths, complete with descriptions and insights.
+
 Explore Opportunities: Users can explore job options and start applying for roles that match their skillset and passion.
+
